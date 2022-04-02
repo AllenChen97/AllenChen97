@@ -18,19 +18,19 @@
 | Java web | Vue | [尚硅谷-Vue前端](https://www.bilibili.com/video/BV1Zy4y1K7SH?spm_id_from=333.999.0.0)| 46.4 h | 100% |  [vue-tags](https://github.com/AllenChen97/vue-tags), [vue-components](https://github.com/AllenChen97/vue-components) |
 | SSM | **Spring** | [狂神-Spring](https://www.bilibili.com/video/BV1WE411d7Dv) | 7.6 h | 100% | [JavaWeb](https://github.com/AllenChen97/JavaWeb) |
 | SSM | **Mybatis** | [Mybatis](https://www.bilibili.com/video/BV1wV411e76e?spm_id_from=333.999.0.0) | 10.5 h |  | **Middle April** |
-| SSM | **Springboot** | [尚硅谷-雷神](https://www.bilibili.com/video/BV19K4y1L7MT?spm_id_from=333.999.0.0) | 26.1 h | 0% | **Early April**,[JavaWeb](https://github.com/AllenChen97/JavaWeb) |
+| SSM | **Springboot** | [尚硅谷-雷神](https://www.bilibili.com/video/BV19K4y1L7MT?spm_id_from=333.999.0.0) | 26.1 h | 0% | **Early April**, [JavaWeb](https://github.com/AllenChen97/JavaWeb) |
 | Java web | **Redis** | [狂神-Redis](https://www.bilibili.com/video/BV1S54y1R7SB?spm_id_from=333.999.0.0) | 10.6 h |  | **Late April** |
 
 #### Big Data Platform
 | Catagory | Content | Video | Duration | Process | Remark |
 :-: | :-: | :-: | :-: | :-:| :-:|
-| Hadoop | **Hadoop** | [尚硅谷-Hadoop](https://www.bilibili.com/video/BV1Qp4y1n7EN?spm_id_from=333.999.0.0) | 27.5 hour |
-| Spark | **Spark** | [尚硅谷-Spark](https://www.bilibili.com/video/BV11A411L7CK?spm_id_from=333.999.0.0) | 31 hour |
+| Hadoop | **Hadoop** | [尚硅谷-Hadoop](https://www.bilibili.com/video/BV1Qp4y1n7EN?spm_id_from=333.999.0.0) | 27.5 hour |  | July |
+| Spark | **Spark** | [尚硅谷-Spark](https://www.bilibili.com/video/BV11A411L7CK?spm_id_from=333.999.0.0) | 31 hour |  | August |
 | Spark | Scala | [尚硅谷-Scala](https://www.bilibili.com/video/BV1Xh411S7bP?spm_id_from=333.999.0.0) | 25 hour |
 | Flink | Flink Java | [尚硅谷-Flink Java](https://www.bilibili.com/video/BV1qy4y1q728?spm_id_from=333.999.0.0) | 36.5 hour |
 | Flink | Flink Scala | [尚硅谷-Flink Scala](https://www.bilibili.com/video/BV1gJ411Q72x?spm_id_from=333.999.0.0) | 32.5 hour |
-| Message Queue | **Zoopkeeper** | [千锋教育](https://www.bilibili.com/video/BV1Ph411n7Ep?spm_id_from=333.999.0.0) | 3.5 hour |
-| Sqoop | **Sqoop** | [尚硅谷-Sqoop](https://www.bilibili.com/video/BV1jb411A7tc?spm_id_from=333.999.0.0) | 1 hour |
+| Message Queue | **Zoopkeeper** | [千锋教育](https://www.bilibili.com/video/BV1Ph411n7Ep?spm_id_from=333.999.0.0) | 3.5 hour |  | July |
+| Sqoop | **Sqoop** | [尚硅谷-Sqoop](https://www.bilibili.com/video/BV1jb411A7tc?spm_id_from=333.999.0.0) | 1 hour |  | July |
 
 #### Essential Knowledge
 | Catagory | Content | Video | Duration | Process | Remark |
