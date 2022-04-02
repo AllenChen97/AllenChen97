@@ -7,7 +7,7 @@
 ### Online Courses on My List
 | Catagory | Content | Video | Process | Remark |
 :-: | :-: | :-: | :-: | :-:|
-| Java Elementary | Java 基础 | [动力节点 0基础](https://www.bilibili.com/video/BV1Rx411876f?spm_id_from=333.999.0.0) | 100% | [JavaBeginner](https://github.com/AllenChen97/JavaBeginner) |
+| Java Elementary | Java | [动力节点 0基础](https://www.bilibili.com/video/BV1Rx411876f?spm_id_from=333.999.0.0) | 100% | [JavaBeginner](https://github.com/AllenChen97/JavaBeginner) |
 | Java Elementary | JDBC | [动力节点-老杜](https://www.bilibili.com/video/BV1Bt41137iB?spm_id_from=333.999.0.0) | 100% | [JavaBeginner](https://github.com/AllenChen97/JavaBeginner) |
 | Java Advanced | JUC | [黑马](https://www.bilibili.com/video/BV16J411h7Rd?spm_id_from=333.999.0.0) |
 | Java Advanced | Design Pattern | [尚硅谷-设计模式](https://www.bilibili.com/video/BV1G4411c7N4?spm_id_from=333.999.0.0) | 5% | [JavaBeginner](https://github.com/AllenChen97/JavaBeginner)
