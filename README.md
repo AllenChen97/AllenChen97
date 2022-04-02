@@ -4,21 +4,24 @@
 - 💞️ I’m looking for a Java developer opportunity in UK
 - 📫 Reach me: J.chen88@newcastle.ac.uk
 
-Online Courses on My List
+### Online Courses on My List
 | Catagory | Content | Video | Process | Remark |
 :-: | :-: | :-: | :-: | :-:|
-| Java Elementary | Java 基础 | [动力节点 0基础](https://www.bilibili.com/video/BV1Rx411876f?spm_id_from=333.999.0.0) | 100% | JavaBeginner |
-| Java Elementary | JDBC | [动力节点-老杜](https://www.bilibili.com/video/BV1Bt41137iB?spm_id_from=333.999.0.0) | 100% | JavaBeginner |
+| Java Elementary | Java 基础 | [动力节点 0基础](https://www.bilibili.com/video/BV1Rx411876f?spm_id_from=333.999.0.0) | 100% | [JavaBeginner](https://github.com/AllenChen97/JavaBeginner) |
+| Java Elementary | JDBC | [动力节点-老杜](https://www.bilibili.com/video/BV1Bt41137iB?spm_id_from=333.999.0.0) | 100% | [JavaBeginner](https://github.com/AllenChen97/JavaBeginner) |
 | Java Advanced | JUC | [黑马](https://www.bilibili.com/video/BV16J411h7Rd?spm_id_from=333.999.0.0) |
-| Java Advanced | Design Pattern | [尚硅谷-设计模式](https://www.bilibili.com/video/BV1G4411c7N4?spm_id_from=333.999.0.0) |
+| Java Advanced | Design Pattern | [尚硅谷-设计模式](https://www.bilibili.com/video/BV1G4411c7N4?spm_id_from=333.999.0.0) | 5% | [JavaBeginner](https://github.com/AllenChen97/JavaBeginner)
 | Java Advanced | Data Structure and Algorithms | [尚硅谷-数据结构与算法](https://www.bilibili.com/video/BV1E4411H73v?spm_id_from=333.999.0.0) | 
 --- | --- | ---| ---| ---|
-| Java web |Java web| [尚硅谷-Java web](https://www.bilibili.com/video/BV1Y7411K7zz?spm_id_from=333.999.0.0) | Tomcat, Servlet, Ajax, Cookie&Session | JavaWeb |
-| Java web | Vue | [尚硅谷-Vue前端](https://www.bilibili.com/video/BV1Zy4y1K7SH?spm_id_from=333.999.0.0)| 100% |  vue-tags, vue-components |
-| SSM | Spring | [狂神-Spring](https://www.bilibili.com/video/BV1WE411d7Dv) | 100% | JavaWeb |
-| SSM | Springboot | [尚硅谷-雷神](https://www.bilibili.com/video/BV19K4y1L7MT?spm_id_from=333.999.0.0) | 0% | JavaWeb |
-| Redis | Java web | [尚硅谷-Redis](https://www.bilibili.com/video/BV1Rv41177Af?spm_id_from=333.999.0.0) |
---- | --- | ---| ---| ---|
+| Java web |Java web| [尚硅谷-Java web](https://www.bilibili.com/video/BV1Y7411K7zz?spm_id_from=333.999.0.0) | 100%: Tomcat, Servlet, Ajax, Cookie&Session | [JavaWeb](https://github.com/AllenChen97/JavaWeb) |
+| Java web | Vue | [尚硅谷-Vue前端](https://www.bilibili.com/video/BV1Zy4y1K7SH?spm_id_from=333.999.0.0)| 100% |  [vue-tags](https://github.com/AllenChen97/vue-tags), [vue-components](https://github.com/AllenChen97/vue-components) |
+| SSM | Spring | [狂神-Spring](https://www.bilibili.com/video/BV1WE411d7Dv) | 100% | [JavaWeb](https://github.com/AllenChen97/JavaWeb) |
+| SSM | Springboot | [尚硅谷-雷神](https://www.bilibili.com/video/BV19K4y1L7MT?spm_id_from=333.999.0.0) | 0% | [JavaWeb](https://github.com/AllenChen97/JavaWeb) |
+| Java web | Redis | [尚硅谷-Redis](https://www.bilibili.com/video/BV1Rv41177Af?spm_id_from=333.999.0.0) |
+
+### Essential Knowledge
+| Catagory | Content | Video | Process | Remark |
+:-: | :-: | :-: | :-: | :-:|
 | Project | Git | [尚硅谷-Git与Github](https://www.bilibili.com/video/BV1pW411A7a5?spm_id_from=333.999.0.0) |
 | Project | Maven | [动力节点-Maven](https://www.bilibili.com/video/BV1dp4y1Q7Hf?spm_id_from=333.999.0.0) |
 --- | --- | ---| ---| ---|
