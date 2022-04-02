@@ -5,6 +5,7 @@
 - 📫 Reach me: J.chen88@newcastle.ac.uk
 
 ### Online Courses on My List
+#### Back-end
 | Catagory | Content | Video | Duration | Process | Remark |
 :-: | :-: | :-: | :-: | :-:| :-:|
 | Java Elementary | Java | [动力节点 0基础](https://www.bilibili.com/video/BV1Rx411876f?spm_id_from=333.999.0.0) | 117.9 of 183.5 h | 100% | [JavaBeginner](https://github.com/AllenChen97/JavaBeginner) |
@@ -20,7 +21,7 @@
 | SSM | Springboot | [尚硅谷-雷神](https://www.bilibili.com/video/BV19K4y1L7MT?spm_id_from=333.999.0.0) | 26.1 h | 0% | [JavaWeb](https://github.com/AllenChen97/JavaWeb) |
 | Java web | Redis | [狂神-Redis](https://www.bilibili.com/video/BV1S54y1R7SB?spm_id_from=333.999.0.0) | 10.6 h |
 
-### Essential Knowledge
+#### Essential Knowledge
 | Catagory | Content | Video | Duration | Process | Remark |
 :-: | :-: | :-: | :-: | :-:| :-:|
 | Project | Git | [尚硅谷-Git与Github](https://www.bilibili.com/video/BV1pW411A7a5?spm_id_from=333.999.0.0) | 6 hour |
@@ -31,7 +32,7 @@
 | Operating System | linux | [韩顺平-一周学会](https://www.bilibili.com/video/BV1Sv411r7vd?spm_id_from=333.999.0.0) | 27 hour |
 | Operating System | 计算机组成原理 | [哈工大-计算机组成原理](https://www.bilibili.com/video/BV1t4411e7LH?spm_id_from=333.999.0.0) | 33 hour |
 
-### Big Data Platform
+#### Big Data Platform
 | Catagory | Content | Video | Duration | Process | Remark |
 :-: | :-: | :-: | :-: | :-:| :-:|
 | Hadoop | Hadoop | [尚硅谷-Hadoop](https://www.bilibili.com/video/BV1Qp4y1n7EN?spm_id_from=333.999.0.0) | 27.5 hour |
