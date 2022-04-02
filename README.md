@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Allen
-- 👀 I’m interested in Java development and data development
+- 👀 I’m interested in Java and data development
 - 🌱 I’m currently learning Spring Boot, JUC, Redis
 - 💞️ I’m looking for a Java developer opportunity in UK
 - 📫 Reach me: J.chen88@newcastle.ac.uk
@@ -21,7 +21,7 @@
 | SSM | **Springboot** | [尚硅谷-雷神](https://www.bilibili.com/video/BV19K4y1L7MT?spm_id_from=333.999.0.0) | 26.1 h | 0% | **Early April**, [JavaWeb](https://github.com/AllenChen97/JavaWeb) |
 | Java web | **Redis** | [狂神-Redis](https://www.bilibili.com/video/BV1S54y1R7SB?spm_id_from=333.999.0.0) | 10.6 h |  | **Late April** |
 
-#### Big Data Platform
+#### Data Platform
 | Catagory | Content | Video | Duration | Process | Remark |
 :-: | :-: | :-: | :-: | :-:| :-:|
 | Hadoop | **Hadoop** | [尚硅谷-Hadoop](https://www.bilibili.com/video/BV1Qp4y1n7EN?spm_id_from=333.999.0.0) | 27.5 hour |  | July |
