@@ -17,9 +17,9 @@
 | Java web |Java web| [尚硅谷-Java web](https://www.bilibili.com/video/BV1Y7411K7zz?spm_id_from=333.999.0.0) | 10.5 of 45.9 h | 100%: Tomcat, Servlet, Ajax, Cookie&Session | [JavaWeb](https://github.com/AllenChen97/JavaWeb) |
 | Java web | Vue | [尚硅谷-Vue前端](https://www.bilibili.com/video/BV1Zy4y1K7SH?spm_id_from=333.999.0.0)| 46.4 h | 100% |  [vue-tags](https://github.com/AllenChen97/vue-tags), [vue-components](https://github.com/AllenChen97/vue-components) |
 | SSM | **Spring** | [狂神-Spring](https://www.bilibili.com/video/BV1WE411d7Dv) | 7.6 h | 100% | [JavaWeb](https://github.com/AllenChen97/JavaWeb) |
-| SSM | **Mybatis** | [Mybatis](https://www.bilibili.com/video/BV1wV411e76e?spm_id_from=333.999.0.0) | 10.5 h |  | **Middle April** |
+| SSM | **Mybatis** | [Mybatis](https://www.bilibili.com/video/BV1wV411e76e?spm_id_from=333.999.0.0) | 10.5 h | 0% | **Middle April** |
 | SSM | **Springboot** | [尚硅谷-雷神](https://www.bilibili.com/video/BV19K4y1L7MT?spm_id_from=333.999.0.0) | 26.1 h | 0% | **Early April** |
-| Java web | **Redis** | [狂神-Redis](https://www.bilibili.com/video/BV1S54y1R7SB?spm_id_from=333.999.0.0) | 10.6 h | 0% | **Late April** |
+| Java web | **Redis** | [狂神-Redis](https://www.bilibili.com/video/BV1S54y1R7SB?spm_id_from=333.999.0.0) | 10.6 h |  | **Late April** |
 
 #### Data Platform
 | Catagory | Content | Video | Duration | Process | Remark |
@@ -27,9 +27,9 @@
 | Hadoop | **Hadoop** | [尚硅谷-Hadoop](https://www.bilibili.com/video/BV1Qp4y1n7EN?spm_id_from=333.999.0.0) | 27.5 hour |  | July |
 | Spark | **Spark** | [尚硅谷-Spark](https://www.bilibili.com/video/BV11A411L7CK?spm_id_from=333.999.0.0) | 31 hour |  | August |
 | Spark | Scala | [尚硅谷-Scala](https://www.bilibili.com/video/BV1Xh411S7bP?spm_id_from=333.999.0.0) | 25 hour |
-| Flink | Flink Java | [尚硅谷-Flink Java](https://www.bilibili.com/video/BV1qy4y1q728?spm_id_from=333.999.0.0) | 36.5 hour |
+| Flink | Flink Java | [尚硅谷-Flink Java](https://www.bilibili.com/video/BV1qy4y1q728?spm_id_from=333.999.0.0) | 36.5 hour |  | August |
 | Flink | Flink Scala | [尚硅谷-Flink Scala](https://www.bilibili.com/video/BV1gJ411Q72x?spm_id_from=333.999.0.0) | 32.5 hour |
-| Clickhouse | Clickhouse | [尚硅谷-一套上手](https://www.bilibili.com/video/BV1Yh411z7os?spm_id_from=333.337.search-card.all.click) | 11.7 hour |
+| Clickhouse | Clickhouse | [尚硅谷-一套上手](https://www.bilibili.com/video/BV1Yh411z7os?spm_id_from=333.337.search-card.all.click) | 11.7 hour |  | August |
 | Message Queue | **Zoopkeeper** | [千锋教育](https://www.bilibili.com/video/BV1Ph411n7Ep?spm_id_from=333.999.0.0) | 3.5 hour |  | July |
 | Sqoop | **Sqoop** | [尚硅谷-Sqoop](https://www.bilibili.com/video/BV1jb411A7tc?spm_id_from=333.999.0.0) | 1 hour |  | July |
 
