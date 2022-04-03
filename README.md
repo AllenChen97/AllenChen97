@@ -29,6 +29,7 @@
 | Spark | Scala | [尚硅谷-Scala](https://www.bilibili.com/video/BV1Xh411S7bP?spm_id_from=333.999.0.0) | 25 hour |
 | Flink | Flink Java | [尚硅谷-Flink Java](https://www.bilibili.com/video/BV1qy4y1q728?spm_id_from=333.999.0.0) | 36.5 hour |
 | Flink | Flink Scala | [尚硅谷-Flink Scala](https://www.bilibili.com/video/BV1gJ411Q72x?spm_id_from=333.999.0.0) | 32.5 hour |
+| Clickhouse | Clickhouse | [尚硅谷-一套上手](https://www.bilibili.com/video/BV1Yh411z7os?spm_id_from=333.337.search-card.all.click) | 11.7 hour |
 | Message Queue | **Zoopkeeper** | [千锋教育](https://www.bilibili.com/video/BV1Ph411n7Ep?spm_id_from=333.999.0.0) | 3.5 hour |  | July |
 | Sqoop | **Sqoop** | [尚硅谷-Sqoop](https://www.bilibili.com/video/BV1jb411A7tc?spm_id_from=333.999.0.0) | 1 hour |  | July |
 
