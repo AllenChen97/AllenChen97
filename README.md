@@ -12,7 +12,7 @@
 | Java Elementary | JDBC | [动力节点-老杜](https://www.bilibili.com/video/BV1Bt41137iB?spm_id_from=333.999.0.0) | 5.5 h | 100% | [JavaBeginner](https://github.com/AllenChen97/JavaBeginner) |
 | Java Advanced | **JUC** | [黑马](https://www.bilibili.com/video/BV16J411h7Rd?spm_id_from=333.999.0.0) | 8.5 h |  | Early May |
 | Java Advanced | Design Pattern | [尚硅谷-设计模式](https://www.bilibili.com/video/BV1G4411c7N4?spm_id_from=333.999.0.0) | 33 h | 5% | **April**, [JavaBeginner](https://github.com/AllenChen97/JavaBeginner)
-| Java Advanced | Data Structure and Algorithms | [尚硅谷-数据结构与算法](https://www.bilibili.com/video/BV1E4411H73v?spm_id_from=333.999.0.0) | 50.9 h |   | **Early May** |
+| Java Advanced | Data Structure and Algorithms | [尚硅谷-数据结构与算法](https://www.bilibili.com/video/BV1E4411H73v?spm_id_from=333.999.0.0) | 50.9 h |   | Early May |
 --- | --- | ---| ---| ---| ---|
 | Java web |Java web| [尚硅谷-Java web](https://www.bilibili.com/video/BV1Y7411K7zz?spm_id_from=333.999.0.0) | 10.5 of 45.9 h | 100%: Tomcat, Servlet, Ajax, Cookie&Session | [JavaWeb](https://github.com/AllenChen97/JavaWeb) |
 | Java web | Vue | [尚硅谷-Vue前端](https://www.bilibili.com/video/BV1Zy4y1K7SH?spm_id_from=333.999.0.0)| 46.4 h | 100% |  [vue-tags](https://github.com/AllenChen97/vue-tags), [vue-components](https://github.com/AllenChen97/vue-components) |
