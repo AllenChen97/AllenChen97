@@ -17,8 +17,8 @@
 | Java web |Java web| [尚硅谷-Java web](https://www.bilibili.com/video/BV1Y7411K7zz?spm_id_from=333.999.0.0) | 10.5 of 45.9 h | 100%: Tomcat, Servlet, Ajax, Cookie&Session | [JavaWeb](https://github.com/AllenChen97/JavaWeb) |
 | Java web | Vue | [尚硅谷-Vue前端](https://www.bilibili.com/video/BV1Zy4y1K7SH?spm_id_from=333.999.0.0)| 46.4 h | 100% |  [vue-tags](https://github.com/AllenChen97/vue-tags), [vue-components](https://github.com/AllenChen97/vue-components) |
 | SSM | **Spring** | [狂神-Spring](https://www.bilibili.com/video/BV1WE411d7Dv) | 7.6 h | 100% | [JavaWeb](https://github.com/AllenChen97/JavaWeb) |
-| SSM | **Mybatis** | [Mybatis](https://www.bilibili.com/video/BV1wV411e76e?spm_id_from=333.999.0.0) | 10.5 h | 0% | **Middle April** |
-| SSM | **Springboot** | [尚硅谷-雷神](https://www.bilibili.com/video/BV19K4y1L7MT?spm_id_from=333.999.0.0) | 26.1 h | 0% | **Early April** |
+| SSM | **Mybatis** | [Mybatis](https://www.bilibili.com/video/BV1wV411e76e?spm_id_from=333.999.0.0) | 10.5 h | 100% | [JavaWeb](https://github.com/AllenChen97/JavaWeb) |
+| SSM | **Springboot** | [尚硅谷-雷神](https://www.bilibili.com/video/BV19K4y1L7MT?spm_id_from=333.999.0.0) | 26.1 h | 13% | **Early April** |
 | Java web | **Redis** | [狂神-Redis](https://www.bilibili.com/video/BV1S54y1R7SB?spm_id_from=333.999.0.0) | 10.6 h |  | **Late April** |
 
 #### Data Platform
