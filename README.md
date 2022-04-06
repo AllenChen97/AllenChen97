@@ -14,13 +14,12 @@
 | Java Advanced | Design Pattern | [尚硅谷-设计模式](https://www.bilibili.com/video/BV1G4411c7N4) | 33 h | 5% | **April**, [JavaBeginner](https://github.com/AllenChen97/JavaBeginner)
 | Java Advanced | Data Structure and Algorithms | [尚硅谷-数据结构与算法](https://www.bilibili.com/video/BV1E4411H73v) | 50.9 h |   | Early May |
 --- | --- | ---| ---| ---| ---|
-| Java web |Java web| [尚硅谷-Java web](https://www.bilibili.com/video/BV1Y7411K7zz) | 10.5 of 45.9 h | 100%: Tomcat, Servlet, Ajax, Cookie&Session | [JavaWeb](https://github.com/AllenChen97/JavaWeb) |
+| Java web |Java web| [尚硅谷-Java web](https://www.bilibili.com/video/BV1Y7411K7zz) | 10.5 of 45.9 h | 100% | Tomcat, Servlet, Ajax, Cookie&Session. [JavaWeb](https://github.com/AllenChen97/JavaWeb) |
 | Java web | Vue | [尚硅谷-Vue前端](https://www.bilibili.com/video/BV1Zy4y1K7SH)| 46.4 h | 100% |  [vue-tags](https://github.com/AllenChen97/vue-tags), [vue-components](https://github.com/AllenChen97/vue-components) |
 | SSM | **Spring** | [狂神-Spring](https://www.bilibili.com/video/BV1WE411d7Dv) | 7.6 h | 100% | [JavaWeb](https://github.com/AllenChen97/JavaWeb) |
 | SSM | **Mybatis** | [Mybatis](https://www.bilibili.com/video/BV1wV411e76e) | 10.5 h | 100% | [JavaWeb](https://github.com/AllenChen97/JavaWeb) |
 | SSM | **Springboot** | [尚硅谷-雷神](https://www.bilibili.com/video/BV19K4y1L7MT) | 26.1 h | 13% | **Early April** |
 --- | --- | ---| ---| ---| ---|
-
 | Database & Midware | **Mysql** | [图灵学院](https://www.bilibili.com/video/BV1ev41137G5) | 14.5 h |  | **Early April** |
 | Database & Midware | **Redis** | [狂神-Redis](https://www.bilibili.com/video/BV1S54y1R7SB) | 10.6 h |  | **Mid April** |
 | Database & Midware | **kafka** | [图灵学院](https://www.bilibili.com/video/BV1ev41137G5) | 17 h |  | **Mid April** |
