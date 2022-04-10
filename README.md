@@ -39,7 +39,7 @@
 #### Essential Knowledge
 | Catagory | Content | Video | Duration | Process | Remark |
 :-: | :-: | :-: | :-: | :-:| :-:|
-| Project | Git | [尚硅谷-Git与Github](https://www.bilibili.com/video/BV1pW411A7a5?spm_id_from=333.999.0.0) | 6 hour |  | **Late April** |
+| Project | Git | [Git](https://www.bilibili.com/video/BV1FE411P7B3) | 1.7 hour | 100% | **Late April** |
 | Project | Maven | [动力节点-Maven](https://www.bilibili.com/video/BV1dp4y1Q7Hf?spm_id_from=333.999.0.0) | 5.9 hour | 100% |  |
 --- | --- | ---| ---| ---| ---|
 | Network | Network | [清华大佬TCP/IP](https://www.bilibili.com/video/BV1Vy4y177YB?spm_id_from=333.999.0.0) | 6.7 hour |
