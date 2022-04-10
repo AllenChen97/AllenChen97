@@ -18,7 +18,7 @@
 | Java web | Vue | [尚硅谷-Vue前端](https://www.bilibili.com/video/BV1Zy4y1K7SH)| 46.4 h | 100% |  [vue-tags](https://github.com/AllenChen97/vue-tags), [vue-components](https://github.com/AllenChen97/vue-components) |
 | SSM | **Spring** | [狂神-Spring](https://www.bilibili.com/video/BV1WE411d7Dv) | 7.6 h | 100% | [JavaWeb](https://github.com/AllenChen97/JavaWeb) |
 | SSM | **Mybatis** | [Mybatis](https://www.bilibili.com/video/BV1wV411e76e) | 10.5 h | 100% | [JavaWeb](https://github.com/AllenChen97/JavaWeb) |
-| SSM | **Springboot** | [尚硅谷-雷神](https://www.bilibili.com/video/BV19K4y1L7MT) | 26.1 h | 39% | **Early April** |
+| SSM | **Springboot** | [尚硅谷-雷神](https://www.bilibili.com/video/BV19K4y1L7MT) | 26.1 h | 44% | **Early April** |
 --- | --- | ---| ---| ---| ---|
 | Database & Midware | **Mysql** | [图灵学院](https://www.bilibili.com/video/BV1ev41137G5) | 14.5 h |  | **Early April** |
 | Database & Midware | **Redis** | [狂神-Redis](https://www.bilibili.com/video/BV1S54y1R7SB) | 10.6 h |  | **Mid April** |
