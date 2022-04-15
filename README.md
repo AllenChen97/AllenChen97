@@ -21,7 +21,7 @@
 | SSM | **Springboot** | [尚硅谷-雷神](https://www.bilibili.com/video/BV19K4y1L7MT) | 26.1 h | 59% | [JavaWeb](https://github.com/AllenChen97/JavaWeb) |
 --- | --- | ---| ---| ---| ---|
 | Database & Midware | **Mysql** | [图灵学院](https://www.bilibili.com/video/BV1ev41137G5) | 14.5 h |  | **Early April** |
-| Database & Midware | **Redis** | [狂神-Redis](https://www.bilibili.com/video/BV1S54y1R7SB) | 10.6 h | 59% | **Mid April** |
+| Database & Midware | **Redis** | [狂神-Redis](https://www.bilibili.com/video/BV1S54y1R7SB) | 10.6 h | 100% | **Mid April** |
 | Database & Midware | **kafka** | [图灵学院](https://www.bilibili.com/video/BV1ev41137G5) | 17 h |  | **Mid April** |
 
 #### Data Platform
