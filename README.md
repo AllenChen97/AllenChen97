@@ -26,9 +26,9 @@
 | SSM | **MyBatisPlus** | [狂神-MyBatisPlus](https://www.bilibili.com/video/BV17E411N7KN) | 3 h |  | Later May |
 | SSM | **SpringCloud** | [狂神-SpringCloud](https://www.bilibili.com/video/BV1jJ411S7xr) | 8.6 h |  | Later May |
 --- | --- | ---| ---| ---| ---|
-| Database & Midware | **Mysql** | [图灵学院](https://www.bilibili.com/video/BV1ev41137G5) | 14.5 h | 100% | **Early April** |
-| Database & Midware | **Redis** | [狂神-Redis](https://www.bilibili.com/video/BV1S54y1R7SB) | 10.6 h | 100% | **Mid April** |
-| Database & Midware | **kafka** | [图灵学院](https://www.bilibili.com/video/BV1ev41137G5) | 17 h |  | **Mid April** |
+| Database & Midware | **Mysql** | [图灵学院](https://www.bilibili.com/video/BV1ev41137G5) | 14.5 h | 100% | [Midware](https://github.com/AllenChen97/Midware) |
+| Database & Midware | **Redis** | [狂神-Redis](https://www.bilibili.com/video/BV1S54y1R7SB) | 10.6 h | 100% | [Midware](https://github.com/AllenChen97/Midware) |
+| Database & Midware | **kafka** | [图灵学院](https://www.bilibili.com/video/BV1ev41137G5) | 17 h |  | [Midware](https://github.com/AllenChen97/Midware) |
 
 #### Data Platform
 | Catagory | Content | Video | Duration | Process | Remark |
