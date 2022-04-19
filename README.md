@@ -10,8 +10,8 @@
 :-: | :-: | :-: | :-: | :-:| :-:|
 | Java Elementary | Java | [动力节点 0基础](https://www.bilibili.com/video/BV1Rx411876f) | 117.9 of 183.5 h | 100% | [JavaBeginner](https://github.com/AllenChen97/JavaBeginner) |
 | Java Elementary | JDBC | [动力节点-老杜](https://www.bilibili.com/video/BV1Bt41137iB) | 5.5 h | 100% | [JavaBeginner](https://github.com/AllenChen97/JavaBeginner) |
-| Java Advanced | **JUC** | [狂神-多线程](https://www.bilibili.com/video/BV1V4411p7EF) | 4.3 h |  | Early May |
-| Java Advanced | **JUC** | [狂神-JUC](https://www.bilibili.com/video/BV1B7411L7tE) | 8.5 h |  | Early May |
+| Java Advanced | **JUC** | [狂神-多线程](https://www.bilibili.com/video/BV1V4411p7EF) | 4.3 h |  | Later April |
+| Java Advanced | **JUC** | [狂神-JUC](https://www.bilibili.com/video/BV1B7411L7tE) | 8.5 h |  | Later April |
 | Java Advanced | Design Pattern | [尚硅谷-设计模式](https://www.bilibili.com/video/BV1G4411c7N4) | 33 h | 5% | **April**, [JavaBeginner](https://github.com/AllenChen97/JavaBeginner)
 | Java Advanced | Data Structure and Algorithms | [尚硅谷-数据结构与算法](https://www.bilibili.com/video/BV1E4411H73v) | 50.9 h |   | Early May |
 
