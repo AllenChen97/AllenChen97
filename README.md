@@ -28,7 +28,7 @@
 --- | --- | ---| ---| ---| ---|
 | Database & Midware | **Mysql** | [图灵学院](https://www.bilibili.com/video/BV1ev41137G5) | 14.5 h | 100% | [Midware](https://github.com/AllenChen97/Midware) |
 | Database & Midware | **Redis** | [狂神-Redis](https://www.bilibili.com/video/BV1S54y1R7SB) | 10.6 h | 100% | [Midware](https://github.com/AllenChen97/Midware) |
-| Database & Midware | **kafka** | [图灵学院](https://www.bilibili.com/video/BV1ev41137G5) | 17 h | 50% | [Midware](https://github.com/AllenChen97/Midware) |
+| Database & Midware | **kafka** | [图灵学院](https://www.bilibili.com/video/BV1ev41137G5) | 17 h | 100% | [Midware](https://github.com/AllenChen97/Midware) |
 
 #### Data Platform
 | Catagory | Content | Video | Duration | Process | Remark |
