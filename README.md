@@ -4,7 +4,7 @@
 - 💞️ I’m looking for a Java developer opportunity in UK
 - 📫 Reach me: J.chen88@newcastle.ac.uk
 
-### Online Courses on My List
+### Learning Progress
 #### Java
 | Catagory | Content | Video | Duration | Process | Remark |
 :-: | :-: | :-: | :-: | :-:| :-:|
