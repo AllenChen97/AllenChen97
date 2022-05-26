@@ -8,7 +8,7 @@
 #### Java
 | Content | Video | Duration | Process | Remark |
  :-: | :-: | :-: | :-:| :-:|
-| Java    | [动力节点 0基础](https://www.bilibili.com/video/BV1Rx411876f) | 117.9 | 100% | [JavaBeginner](https://github.com/AllenChen97/JavaBeginner) |
+| Java    | [动力节点 0基础](https://www.bilibili.com/video/BV1Rx411876f) | 117.9 h | 100% | [JavaBeginner](https://github.com/AllenChen97/JavaBeginner) |
 | JDBC    | [动力节点-老杜](https://www.bilibili.com/video/BV1Bt41137iB) | 5.5 h | 100% | [JavaBeginner](https://github.com/AllenChen97/JavaBeginner) |
 | **JUC** | [狂神-多线程](https://www.bilibili.com/video/BV1V4411p7EF) | 4.3 h | 100% | [JavaBeginner](https://github.com/AllenChen97/JavaBeginner) |
 | **JUC** | [狂神-JUC](https://www.bilibili.com/video/BV1B7411L7tE) | 8.5 h | 100%  | [JavaBeginner](https://github.com/AllenChen97/JavaBeginner) |
@@ -18,7 +18,7 @@
 #### Framework and Midware
 | Content | Video | Duration | Process | Remark |
  :-: | :-: | :-: | :-:| :-:|
-|Java web| [尚硅谷-Java web](https://www.bilibili.com/video/BV1Y7411K7zz) | 10.5 of 45.9 h | 100% | Tomcat, Servlet, Ajax, Cookie&Session. [JavaWeb](https://github.com/AllenChen97/JavaWeb) |
+|Java web| [尚硅谷-Java web](https://www.bilibili.com/video/BV1Y7411K7zz) | 10.5 h | 100% | Tomcat, Servlet, Ajax, Cookie&Session. [JavaWeb](https://github.com/AllenChen97/JavaWeb) |
 | Vue | [尚硅谷-Vue前端](https://www.bilibili.com/video/BV1Zy4y1K7SH)| 46.4 h | 100% |  [vue-tags](https://github.com/AllenChen97/vue-tags), [vue-components](https://github.com/AllenChen97/vue-components) |
 | **Spring** | [狂神-Spring](https://www.bilibili.com/video/BV1WE411d7Dv) | 7.6 h | 100% | [JavaWeb](https://github.com/AllenChen97/JavaWeb) |
 | **Mybatis** | [Mybatis](https://www.bilibili.com/video/BV1wV411e76e) | 10.5 h | 100% | [JavaWeb](https://github.com/AllenChen97/JavaWeb) |
