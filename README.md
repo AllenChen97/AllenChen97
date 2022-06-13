@@ -35,6 +35,7 @@
 | **nginx** | [尚硅谷-Nginx](https://www.bilibili.com/video/BV1zJ411w7SV) | 4 h | 100% | [JavaWeb](https://github.com/AllenChen97/JavaWeb) |
 | **docker** | [狂神-docker](https://www.bilibili.com/video/BV1og4y1q7M4) | 8 h | 100% | [Midware](https://github.com/AllenChen97/Midware) |
 
+<!--- hidden
 #### Data Platform
 | Content | Video | Duration | Process | Remark |
  :-: | :-: | :-: | :-:| :-:|
@@ -46,6 +47,7 @@
 | Clickhouse      | [尚硅谷-一套上手](https://www.bilibili.com/video/BV1Yh411z7os?spm_id_from=333.337.search-card.all.click) | 11.7 hour |  | August |
 | **Zoopkeeper**  | [千锋教育](https://www.bilibili.com/video/BV1Ph411n7Ep?spm_id_from=333.999.0.0) | 3.5 hour |  | July |
 | **Sqoop**       | [尚硅谷-Sqoop](https://www.bilibili.com/video/BV1jb411A7tc?spm_id_from=333.999.0.0) | 1 hour |  | July |
+--->
 
 #### Essential Knowledge
 | Catagory | Content | Video | Duration | Process | Remark |
