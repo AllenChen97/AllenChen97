@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Allen
-- 👀 I’m interested in Java and data development
+- 👀 I’m interested in Java development, back-end
 - 🌱 I’m currently learning Spring Boot, JUC, Redis
 - 💞️ I’m looking for a Java developer opportunity in UK
 - 📫 Reach me: J.chen88@newcastle.ac.uk
